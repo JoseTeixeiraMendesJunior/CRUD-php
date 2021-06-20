@@ -112,7 +112,7 @@ PRIMARY KEY (id)
 );
 
 
-- [Esquema do Banco de Dados crudphp](- [Versão Final](https://github.com/JoseTeixeiraMendesJunior/CRUD-php/tree/main/C%C3%B3digo/Vers%C3%A3o%20Final))
+- [Esquema do Banco de Dados crudphp](https://github.com/JoseTeixeiraMendesJunior/CRUD-php/blob/main/Esquema%20Banco%20de%20Dados/Esquema%20crudphp.jpeg)
 
 ## Observações
 ⚠️ O código no momento apresenta um problema de execução! ⚠️
