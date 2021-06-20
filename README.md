@@ -45,7 +45,7 @@ layout do modelo em aplicação:
     <td>8.1.0</td>
     <td>8.0.21</td>
     <td>3.2.0</td>
-    <td>1.0</td>
+    <td>Json</td>
   </tr>
 </table>
 
