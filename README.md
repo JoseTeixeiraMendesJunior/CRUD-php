@@ -115,7 +115,7 @@ PRIMARY KEY (id)
 - [Esquema do Banco de Dados crudphp](https://github.com/JoseTeixeiraMendesJunior/CRUD-php/blob/main/Esquema%20Banco%20de%20Dados/Esquema%20crudphp.jpeg)
 
 ## Observações
-⚠️ O código no momento apresenta um problema de execução! ⚠️
+⚠️ O código, no momento, apresenta um problema de execução! ⚠️
 
 
-Ao tentar alterar os dados cadastrados em um cliente já registrado na base de dados, era esperado que os dados atuais completasse, automaticamente os campos de registros, porém os campos destinados aos dados de endereço não são atualizados, portanto deve-se tomar cuidado, pois se realizar uma **consulta** a um CEP enquanto estiver na aba para alteração de dados, esta será atualizada e redirecionada a página inicial de inserção de novos registros!
+Ao tentar alterar os dados cadastrados em um cliente já registrado na base de dados, era esperado que os dados atuais completassem automaticamente os campos de registros, porém os campos destinados aos dados de endereço não são atualizados, portanto deve-se tomar cuidado, pois se realizar uma **consulta** a um CEP enquanto estiver na aba para alteração de dados, esta será atualizada e redirecionada a página inicial de inserção de novos registros!
